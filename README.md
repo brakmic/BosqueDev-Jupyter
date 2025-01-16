@@ -8,8 +8,8 @@ A Jupyter Lab 4.x environment with integrated Bosque programming language suppor
 
 - Complete Jupyter Lab 4.x environment
 - Integrated Bosque language support:
-  - Jupyter kernel for code execution
-  - Syntax highlighting extension
+  - [Jupyter kernel for code execution](https://github.com/brakmic/jupyterlab_bosque_kernel)
+  - [Syntax highlighting extension](https://github.com/brakmic/jupyterlab-bosque-syntax)
 - Pre-installed development tools:
   - Node.js 22.x
   - Git & Git LFS
