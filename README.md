@@ -72,7 +72,7 @@ docker run -p 8888:8888 bosquedev-jupyter
 - [Toward Programming Languages for Reasoning –
 Humans, Symbolic Systems, and AI Agents](https://www.arxiv.org/pdf/2407.06356)
 - [Regularized Programming with the Bosque Language](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/beyond_structured_report_v2.pdf)
-- [BsqON Tech Report](https://github.com/BosqueLanguage/BSQON/blob/main/docs/publications/bsqon_techreport.pdf)
+- [A Programming Language for Data and Configuration](https://github.com/BosqueLanguage/BSQON/blob/main/docs/publications/bsqon_techreport.pdf)
 
 # License
 
